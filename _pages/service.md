@@ -16,9 +16,9 @@ Departmental academic service.
 ### Department Service at IIT Madras
 
 - **GPU cluster maintainer** for Krishna Pillutla's group (2025-present)
-- **Teaching Assistant**: Introduction to ML (NPTEL), by Prof. Balaraman Ravindran in Spring '25
-- **Teaching Assistant**: Reinforcement Learning, by Prof. Balaraman Ravindran in Spring '24 & '25
-- **Teaching Assistant**: Foundations of ML, by Prof. Balaraman Ravindran in Fall '23
+- **Teaching Assistant**: Introduction to ML (NPTEL), by Balaraman Ravindran in Spring '25
+- **Teaching Assistant**: Reinforcement Learning, by Balaraman Ravindran in Spring '24 & '25
+- **Teaching Assistant**: Foundations of ML, by Balaraman Ravindran in Fall '23
 - **Academic Mentor** for UG freshers, at the Student Mentorship Cell, IIT Madras  (2021)
 
 
