@@ -14,7 +14,7 @@ My research at CeRAI is centred around differentially private synthetic data gen
 
 I was previously a Student Researcher at Google Research India, in the Advertising Sciences team, working on private offline reinforcment learning algorithms. I also spent an amazing summer at the University of British Columbia hosted by [Prof. Apurva Narayan](https://a-narayan.github.io/) where I explored the adversarial robustness of quantum ML models. 
 
-Reach out to me at [my-first-name][my-last-name]2001 @ gmail [dot] com, to chat about research and more!
+Reach out to me at [my-first-name][my-last-name]2001@gmail[dot]com, to chat about research and more!
 
 
 ## News
