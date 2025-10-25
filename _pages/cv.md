@@ -13,7 +13,15 @@ redirect_from:
 {% include base_path %}
 
 
-<embed src="https://vishnuvind.github.io/cv_vishnu.pdf" type="application/pdf" />
+<!-- <embed src="/misc/cv_vishnu.pdf" type="application/pdf" /> -->
+
+<div style="position: relative; width: 100%; height: 85vh;">
+  <iframe 
+    src="{{ '/misc/cv_vishnu.pdf' | relative_url }}" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    frameborder="0">
+  </iframe>
+</div>
 
 <!-- Education
 ======
