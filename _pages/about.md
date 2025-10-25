@@ -21,7 +21,7 @@ Reach out to me at [my-first-name][my-last-name]2001 @ gmail [dot] com, to chat 
 
 * *[October 2025]* Some of my recent [work](https://arxiv.org/pdf/2507.02974) on private text generation using LLMs was accepted at **NeurIPS 2025**. We introduce InvisibleInk, which uses LLMs to generate synthetic text at scale with differential privacy guarantees, at **10x less computational cost** than prior work. Very grateful to [Prof. Krishna](https://krishnap25.github.io/) and [Abhradeep Thakurta](https://athakurta.squarespace.com/) for all their support and guidance!
 
-* *[October 2025]* Our [paper](https://openreview.net/pdf?id=2bj0eVgCdO) on "Preserving Expert-Level Privacy in Offline RL" was accepted in **TMLR**. Many thanks to my amazing collaborator [Navodita](https://scholar.google.com/citations?user=hcsR-tMAAAAJ) and other fantastic collaborators at Google.
+* *[October 2025]* Our [paper](https://openreview.net/pdf?id=2bj0eVgCdO) on "Preserving Expert-Level Privacy in Offline RL" was accepted in **TMLR 2025**. Many thanks to my amazing collaborator [Navodita](https://scholar.google.com/citations?user=hcsR-tMAAAAJ) and other fantastic collaborators at Google.
 
 * *[July 2024]* Thrilled to announce that I am joining [CeRAI](https://cerai.iitm.ac.in/) as a Post-Baccalaureate Fellow!
 
