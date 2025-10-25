@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Vishnu Vinod"
 title_separator          : "-"
 name                     : &name "Vishnu Vinod"
@@ -23,7 +23,7 @@ repository               : "vishnuvind/vishnuvind.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Vishnu Vinod"
   pronouns         : # "he/him"  
   bio              : "Post Baccalaureate Fellow"
@@ -152,7 +152,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 

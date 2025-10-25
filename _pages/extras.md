@@ -6,4 +6,8 @@ redirect_from:
   - /extras.html
 ---
 
+
+{% include base_path %}
+
 Site under construction \:)
+
