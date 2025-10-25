@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Vishnu Vinod"
-  pronouns         : "he/him"  
+  pronouns         : # "he/him"  
   bio              : "Post Baccalaureate Fellow"
-  location         : "Chennai, India"
-  employer         : "CeRAI, IIT Madras"
+  location         : "CeRAI, IIT Madras"
+  employer         : # CeRAI, IIT Madras
   uri              : # URL
-  email            : "[firstname][lastname]2001 @ gmail [dot] com" 
+  email            : "vishnuvinod2001@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -71,7 +71,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : vishnuvind
+  twitter          : # vishnuvind
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
