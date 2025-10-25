@@ -15,13 +15,25 @@ redirect_from:
 
 <!-- <embed src="/misc/cv_vishnu.pdf" type="application/pdf" /> -->
 
-<div style="position: relative; width: 100%; height: 85vh;">
+<div style="width: 100%; height: 75vh;">
+  <iframe
+    src="{{ '/assets/pdfjs/web/viewer.html?file=/misc/cv_vishnu.pdf' | relative_url }}"
+    style="width: 100%; height: 100%; border: none;"
+    allowfullscreen
+    loading="lazy">
+  </iframe>
+</div>
+
+
+
+<!-- <div style="position: relative; width: 100%; height: 75vh;">
   <iframe 
     src="{{ '/misc/cv_vishnu.pdf' | relative_url }}" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
     frameborder="0">
   </iframe>
-</div>
+</div> -->
+
 
 <!-- Education
 ======
